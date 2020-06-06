@@ -1,0 +1,35 @@
+.back {
+    width: 100%;
+    position: absolute;
+    margin-left: -0.7%;
+    margin-top: -1.3%;
+    opacity: 0.82;
+}
+
+.msg {
+    font-family: 'Amatic SC', cursive;
+    position: absolute;
+    color: rgba(11, 199, 58, 0.712);
+    font-size: 70px;
+    margin-left: 42.5%;
+    margin-top: 2%;
+}
+
+.us{
+    width: 28%;
+    height: 62%;
+    position: absolute;
+    margin-left: 34%;
+    margin-top: 10%;
+    border-radius: 22px;
+    display: block;
+}
+
+.txt {
+    font-family: 'Rokkitt', serif;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    margin-left: 42.5%;
+    margin-top: 55%;
+}

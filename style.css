@@ -48,7 +48,7 @@
     position: absolute;
     width: 200px;
     height: 100px;
-    opacity: 0.5;
+    opacity: 0.65;
     margin-top: 2%;
     margin-left: 9%;
 }
@@ -57,7 +57,7 @@
     position: absolute;
     width: 200px;
     height: 120px;
-    opacity: 0.5;
+    opacity: 0.7;
     margin-top: 35.4%;
     margin-left: 1%;
 }
@@ -88,6 +88,15 @@
     transform: rotate(-18deg);
 }
 
+.jb2 {
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.712);
+    font-size: 25px;
+    margin-left: 23.5%;
+    margin-top: 22.5%;
+}
+
 .core {
     position: absolute;
     width: 20px;
@@ -111,7 +120,7 @@
     position: absolute;
     width: 210px;
     height: 36px;
-    opacity: 0.83;
+    opacity: 0.73;
     margin-top: 11.2%;
     margin-left: 68%;
     transform: rotate(-6deg);
@@ -127,6 +136,14 @@
     transform: rotate(-8deg);
 }
 
+.nu3 {
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.712);
+    font-size: 25px;
+    margin-left: 40.8%;
+}
+
 .dd {
     position: absolute;
     width: 130px;
@@ -135,4 +152,207 @@
     margin-top: 8.2%;
     margin-left: 1%;
     transform: rotate(-18deg);
+}
+
+.date29 {
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.712);
+    font-size: 25px;
+    margin-left: 23.8%;
+    margin-top: 4.5%;
+    transform: rotate(-40deg);
+}
+
+.disney {
+    position: absolute;
+    width: 130px;
+    height: 80px;
+    opacity: 0.83;
+    margin-top: 16.2%;
+    margin-left: 22%;
+    opacity: 0.6;
+    transform: rotate(-6deg);
+}
+
+.ach {
+    position: absolute;
+    width: 130px;
+    height: 100px;
+    opacity: 0.83;
+    margin-top: 25.2%;
+    margin-left: 2%;
+    opacity: 0.75;
+}
+
+.fvg {
+    position: absolute;
+    width: 100px;
+    height: 60px;
+    opacity: 0.83;
+    margin-top: 22.2%;
+    margin-left: 64%;
+    opacity: 0.9;
+}
+
+.maiorque {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    opacity: 0.83;
+    margin-top: 23.2%;
+    margin-left: 71.5%;
+    opacity: 0.7;
+}
+
+.shake {
+    position: absolute;
+    width: 180px;
+    height: 200px;
+    opacity: 0.83;
+    margin-top: 17%;
+    margin-left: 73.5%;
+    opacity: 0.9;
+}
+
+.date21 {
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.712);
+    font-size: 25px;
+    margin-left: 49.8%;
+    margin-top: 4.5%;
+}
+
+.bm {
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.712);
+    font-size: 20px;
+    margin-left: 63.8%;
+    margin-top: 28.5%;
+    transform: rotate(-18deg);
+}
+
+.jl {
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.712);
+    font-size: 20px;
+    margin-left: 80.8%;
+    margin-top: 29%;
+    transform: rotate(15deg);
+}
+
+.stairs {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    opacity: 0.83;
+    margin-top: 20%;
+    margin-left: 3.5%;
+    opacity: 0.6;
+}
+
+.ly {
+    position: absolute;
+    width: 120px;
+    height: 80px;
+    opacity: 0.83;
+    margin-top: 28%;
+    margin-left: 70.5%;
+    opacity: 0.8;
+}
+
+.halt {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    opacity: 0.83;
+    margin-top: 2%;
+    margin-left: 2%;
+    opacity: 0.6;
+    transform: rotate(100deg);
+}
+
+.anel {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    opacity: 0.83;
+    margin-top: 10%;
+    margin-left: 25%;
+    opacity: 1.1;
+    transform: rotate(25deg);
+}
+
+.tgif {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    opacity: 0.88;
+    margin-top: 19%;
+    margin-left: 12.5%;
+    opacity: 0.65;
+}
+
+.click {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    opacity: 0.88;
+    margin-top: 3%;
+    margin-left: 62.3%;
+    opacity: 0.65;
+    transform: rotate(29deg);
+}
+
+.kilo {
+    position: absolute;
+    width: 100px;
+    height: 70px;
+    opacity: 0.88;
+    margin-top: 28.5%;
+    margin-left: 12.3%;
+    opacity: 0.7;
+}
+.ny {
+    position: absolute;
+    width: 110px;
+    height: 70px;
+    opacity: 0.88;
+    margin-top: 17.5%;
+    margin-left: 77.3%;
+    opacity: 0.65;
+}
+
+.universal {
+    position: absolute;
+    width: 180px;
+    height: 100px;
+    opacity: 0.88;
+    margin-top: 28.5%;
+    margin-left: 19.3%;
+    opacity: 0.65;
+    transform: rotate(-29deg);
+}
+
+.aviao {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    margin-top: 34.5%;
+    margin-left: 55.3%;
+    opacity: 0.92;
+    transform: rotate(-8deg);
+}
+
+.world {
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    margin-top: 36.5%;
+    margin-left: 73.3%;
+    opacity: 0.7;
+    transform: rotate(-8deg);
 }

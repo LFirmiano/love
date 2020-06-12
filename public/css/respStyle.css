@@ -1,0 +1,284 @@
+@media (min-width:320px) and (max-width:1090px){
+    .back {
+        width: 119%;
+        height: 118.9%;
+        position: absolute;
+        margin-right: -0.3%;
+        opacity: 0.82;
+        size: 100%;
+    }
+
+    .us{
+        width: 75%;
+        height: 43%;
+        margin-left: 18.3%;
+        margin-top: 55%;
+        border-radius: 25px;
+    }
+
+    .my {
+        font-size: 110px;
+        margin-left: 46.5%;
+        margin-top: 125%;
+    }
+    
+    .love {
+        font-size: 110px;
+        margin-left: 43.8%;
+        margin-top: 136%;
+    }
+
+    .out {
+        width: 200px;
+        height: 100px;
+        margin-top: 3%;
+        margin-left: 84%;
+    }
+
+    .violao {
+        width: 200px;
+        height: 120px;
+        margin-top: 152.4%;
+        margin-left: 70%;
+    }
+
+    .ach {
+        width: 170px;
+        height: 130px;
+        margin-top: 145.7%;
+        opacity: 0.9;
+        margin-left: 11%;
+    }
+
+    .ly {
+        width: 120px;
+        height: 80px;
+        margin-top: 38%;
+        margin-left: 50.5%;
+    }
+
+    .jb {
+        font-size: 30px;
+        margin-left: 1%;
+        margin-top: 20%;
+        transform: rotate(-10deg);
+    }
+
+    .jb2 {
+        font-size: 40px;
+        margin-left: 100.5%;
+        margin-top: 100.5%;
+    }
+
+    .jb3 {
+        font-size: 32px;
+        margin-left: 66.5%;
+        margin-top: 130%;
+        transform: rotate(-48deg);
+    }
+
+    .core {
+        width: 20px;
+        height: 20px;
+        margin-top: 22.6%;
+        margin-left: 39.8%;
+        transform: rotate(-11deg);
+    }
+
+    .dd {
+        width: 160px;
+        height: 110px;
+        margin-top: 59.2%;
+        margin-left: 1%;
+        transform: rotate(-18deg);
+    }
+
+    .date21 {
+        font-size: 60px;
+        margin-left: 53.8%;
+        margin-top: 58.5%;
+    }
+
+    .date29 {
+        font-size: 40px;
+        margin-top: 85.5%;
+        margin-left: -2%;
+        transform: rotate(-60deg);
+    }
+
+    .fvg {
+        width: 100px;
+        height: 60px;
+        margin-top: 29.2%;
+        margin-left: 42%;
+    }
+    
+    .maiorque {
+        width: 40px;
+        height: 40px;
+        margin-top: 30.2%;
+        margin-left: 52.5%;
+    }
+    
+    .shake {
+        width: 180px;
+        height: 200px;
+        margin-top: 22%;
+        margin-left: 56.5%;
+    }
+
+    .halt {
+        width: 80px;
+        height: 80px;
+        margin-top: 83%;
+        margin-left: 100%;
+    }    
+
+    .tgs {
+        width: 260px;
+        height: 140px;
+        margin-top: 0.8%;
+        margin-left: 43.5%;
+    }
+
+    .out {
+        width: 230px;
+        height: 110px;
+        margin-top: 4.5%;
+        margin-left: 91%;
+        transform: rotate(36deg);
+    }
+
+    .tgif {
+        width: 130px;
+        height: 130px;
+        margin-top: 21%;
+        margin-left: 97.5%;
+    }
+
+    .empire {
+        width: 280px;
+        height: 380px;
+        margin-top: 125.2%;
+        margin-left: 89%;
+    }
+
+    .aviao {
+        width: 340px;
+        height: 215px;
+        margin-top: 125.5%;
+        margin-left: 4.3%;
+    }
+
+    .anel {
+        width: 230px;
+        height: 230px;
+        margin-top: 135%;
+        opacity: 1;
+        margin-left: 79%;
+    }
+
+    .click {
+        width: 160px;
+        height: 160px;
+        margin-top: 40%;
+        margin-left: 91.7%;
+    }
+
+    .nu {
+        width: 260px;
+        height: 46px;
+        margin-top: 16.2%;
+        margin-left: 61%;
+        transform: rotate(-15deg);
+    }
+    
+    .nu2 {
+        font-size: 25px;
+        margin-left: 74%;
+        margin-top: 32%;
+        transform: rotate(-72deg);
+    }
+
+    .nu3 {
+        font-size: 50px;
+        margin-top: 47%;
+        margin-left: 36.5%;
+    }
+
+    .world {
+        width: 150px;
+        height: 150px;
+        margin-top: 152.5%;
+        margin-left: 47.3%;
+    }
+
+    .universal {
+        width: 210px;
+        height: 110px;
+        margin-top: 39.5%;
+        margin-left: 2.3%;
+    }
+
+    .kilo {
+        width: 120px;
+        height: 80px;
+        margin-top: 65.5%;
+        margin-left: 96.6%;
+    }
+
+    .nk {
+        width: 145px;
+        height: 145px;
+        margin-top: 107.9%;
+        margin-left: 1.7%;
+    }
+    
+    .x {
+        width: 150px;
+        height: 150px;
+        margin-top: 107.9%;
+        margin-left: 1.3%;
+    }
+
+    .stairs {
+        width: 90px;
+        height: 90px;
+        margin-top: 40%;
+        margin-left: 26.5%;
+    }
+
+    .ed {
+        font-size: 35px;
+        margin-left: 5.4%;
+        margin-top: 124%;
+        transform: rotate(-7deg);
+    }
+
+    .bm {
+        font-size: 24px;
+        margin-left: 39.8%;
+        margin-top: 38.5%;
+    }
+    
+    .jl {
+        font-size: 22px;
+        margin-left: 65.8%;
+        margin-top: 39%;
+    }
+    
+
+    .final {
+        font-size: 60px;
+        margin-left: 19%;
+        margin-top: 169.5%;
+    }
+
+    .disney {
+        width: 130px;
+        height: 80px;
+        margin-top: 30.2%;
+        margin-left: 22%;
+        transform: rotate(-6deg);
+    }
+}
